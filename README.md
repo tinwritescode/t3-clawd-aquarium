@@ -2,6 +2,8 @@
 
 A remix of [rohit3a/t3-clawd](https://github.com/rohit3a/t3-clawd), the Claude-inspired theme for T3 Code, with a pixel aquarium behind the chat.
 
+![T3 Clawd Aquarium](media/aquarium.png)
+
 One theme file. Uses 19.9k of T3 Code's 20k-character CSS limit.
 
 ## Changes from T3 Clawd
